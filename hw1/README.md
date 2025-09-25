@@ -56,3 +56,6 @@ myController
 >{
 "Pasta": 100
 }
+
+서로 서버 접속해보기 인증 (성국형님 서버에 접속)
+![img.png](img.png)
